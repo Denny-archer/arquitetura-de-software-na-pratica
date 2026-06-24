@@ -177,6 +177,11 @@ Durante este estudo foi possível perceber que não existe uma arquitetura unive
 
 A principal conclusão foi que decisões arquiteturais devem ser guiadas por necessidades reais do projeto e não apenas por tendências tecnológicas.
 
+## NotebookLM
+
+Link para o caderno temático:
+
+[https://notebooklm.google.com/...](https://notebooklm.google.com/notebook/4f864487-0c66-4f1b-ba1e-2e708ace331f)
 ---
 
 ## Ferramentas Utilizadas
